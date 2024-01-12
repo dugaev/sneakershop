@@ -4,7 +4,7 @@
             <img src="/favicon.svg" alt="Logo" class="w-[90px] h-[70px]" />
             <div>
                 <h2 class="text-xl font-bold uppercase">SneakerShop</h2>
-                <p class="text-slate-500">Buy your favorite sneakers</p>
+                <p class="text-slate-500">Choose your favorite sneakers</p>
             </div>
         </div>
 
