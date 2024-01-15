@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Blazer Mid Suego",
+        "price": "₴941",
+        "imageURL": "/sneakers/sneakers-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nike Air 270",
+        "price": "₴905",
+        "imageURL": "/sneakers/sneakers-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Nike Blazer Mid Suego White",
+        "price": "₴908",
+        "imageURL": "/sneakers/sneakers-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Puma DB-13",
+        "price": "₴703",
+        "imageURL": "/sneakers/sneakers-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Фантастический Меховой Ботинок",
+        "price": "₴982",
+        "imageURL": "/sneakers/sneakers-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nike Air Jordan 13",
+        "price": "₴124",
+        "imageURL": "/sneakers/sneakers-6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Nike Air Jordan Low",
+        "price": "₴286",
+        "imageURL": "/sneakers/sneakers-7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Nike Air Jordan Mid Blue",
+        "price": "₴895",
+        "imageURL": "/sneakers/sneakers-8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nike Trail Orange",
+        "price": "₴416",
+        "imageURL": "/sneakers/sneakers-9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Nike Air Lime",
+        "price": "₴647",
+        "imageURL": "/sneakers/sneakers-10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Reebok Skate",
+        "price": "₴350",
+        "imageURL": "/sneakers/sneakers-11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Puma BN-40",
+        "price": "₴472",
+        "imageURL": "/sneakers/sneakers-12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Nike Blazer Mid Suego",
+        "price": "₴405",
+        "imageURL": "/sneakers/sneakers-1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Nike Air 270",
+        "price": "₴368",
+        "imageURL": "/sneakers/sneakers-2.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Nike Blazer Mid Suego White",
+        "price": "₴297",
+        "imageURL": "/sneakers/sneakers-3.jpg"
+    }
+]
